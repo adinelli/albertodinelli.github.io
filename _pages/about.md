@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Ciao
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Universite Paris Cite</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left #right
@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>768A Condorcet</p>
-    <p>123 your <br> address street</p>
+    <p>10, rue Alice Domon  <br> et Léonie Duquet</p>
+    <p>Universite Paris Cite</p>
     <p>Paris, France</p>
 
 news: true  # includes a list of news items
