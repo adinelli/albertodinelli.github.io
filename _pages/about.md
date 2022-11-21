@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>768 Condorcet</p>
-    <p>123 your address street</p>
+    <p>768A Condorcet</p>
+    <p>123 your <br> address street</p>
     <p>Paris, France</p>
 
 news: true  # includes a list of news items
