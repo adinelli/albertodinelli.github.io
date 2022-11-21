@@ -2,7 +2,7 @@
 layout: about
 title: Ciao
 permalink: /
-subtitle: <a href='#'>Universite Paris Cite</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://u-paris.fr/'>Universite Paris Cite</a>. Laboratoire Matiere et systemes complexes <a href='http://www.msc.univ-paris-diderot.fr/'>MSC</a>
 
 profile:
   align: left #right
