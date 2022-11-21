@@ -1,12 +1,12 @@
 ---
 layout: about
-title: Ciao
+title: About
 permalink: /
 subtitle: <a href='https://u-paris.fr/'>Universite Paris Cite</a>. Laboratoire Matiere et systemes complexes <a href='http://www.msc.univ-paris-diderot.fr/'>MSC</a>
 
 profile:
   align: left #right
-  image: prof_pic.jpg
+  image: 2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>768A Condorcet</p>
