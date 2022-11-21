@@ -11,7 +11,7 @@ profile:
   address: >
     <p>768A Condorcet</p>
     <p>10, rue Alice Domon  <br> et Léonie Duquet</p>
-    <p>Universite Paris Cite</p>
+    <!-- <p>Universite Paris Cite</p> -->
     <p>Paris, France</p>
 
 news: true  # includes a list of news items
