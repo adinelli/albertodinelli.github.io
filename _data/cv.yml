@@ -85,6 +85,14 @@
 #       items:
 #         - Max Planck Medal
 
+- title: Teaching experience
+  type: time_table
+  contents:
+    -title: TP mécanique IUT Paris Pajol
+     year: 2021-2022
+    -title: TD Real analysis for engigneering. Universita di Roma 'La Sapienza'
+     year: 2018
+
 - title: Academic Interests
   type: nested_list
   contents:
