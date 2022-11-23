@@ -34,9 +34,9 @@
       #   - Description 1.
       #   - Description 2.
 
-- title: Experience
-  type: time_table
-  contents:
+# - title: Experience
+#   type: time_table
+#   contents:
     # - title: Professor of Theoretical Physics
     #   institution: Institute for Advanced Study, Princeton University
     #   year: 1933 - 1955
@@ -100,4 +100,5 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> <a href='https://cyclingupthehills.altervista.org/'>Cycling</a>, Hobby 2, etc.
+    - <strong>Hobbies:</strong> <a href='https://cyclingupthehills.altervista.org/'>Cycling</a>, Climbing
+    # <u> </u> for underline
