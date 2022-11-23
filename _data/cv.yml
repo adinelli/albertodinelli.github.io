@@ -88,13 +88,22 @@
 - title: Teaching experience
   type: time_table
   contents:
-    -title: TP mécanique IUT Paris Pajol
-     year: 2021-2022
-     description:
-      
-    -title: TD Real analysis for engigneering. Universita di Roma 'La Sapienza'
-     year: 2018
-     description:
+    - title: TP mécanique
+      institution: Universite Paris Cite
+      year: 2021-2022
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: TD Real analysis for engigneering
+      institution: Universita di Roma 'La Sapienza'
+      year: 2018
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Academic Interests
   type: nested_list
