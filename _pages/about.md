@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://u-paris.fr/'>Universite Paris Cite</a>. Laboratoire Matiere et systemes complexes <a href='http://www.msc.univ-paris-diderot.fr/'>MSC</a>
+subtitle: <a href='https://u-paris.fr/'>Universite Paris Cite</a>. Laboratoire Matière et Systèmes Complexes <a href='http://www.msc.univ-paris-diderot.fr/'>MSC</a>
 
 profile:
   align: left #right
@@ -20,8 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Hi there
-i am a phd student in physics
+Hi there,
+i am a phd student in theoretical physics at the Laboratoire Matière et Systèmes Complexes (<a href='http://www.msc.univ-paris-diderot.fr/'>MSC</a>) where I have joined the 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
