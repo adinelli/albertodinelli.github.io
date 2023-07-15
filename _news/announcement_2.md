@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A long announcement with details
+title: YITP
 date: 17-07-2023 16:11:00-0400
 inline: true
 ---
 
-Great news! we will be visiting Hisao Hayakawa group
+Starting from today, I will be visiting Prof. Hisao Hayakawa group at the Yukawa Institute for Theoretical Physics [YITP](https://www.kyoto-u.ac.jp/en/about/profile/faculty/research-institutes/yukawa-institute-for-theoretical-physics-yitp)

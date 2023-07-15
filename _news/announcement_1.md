@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-06-17 15:59:00-0400
+date: 19-06-2023 15:59:00-0400
 inline: true
 ---
 
-This week I will present my poster at the AMSCE conference in Dresden! 
+This week I will be in Dresden at the [AMSCE](https://www.pks.mpg.de/amsce23/) workshop where I will present my poster on 'Nematic torques in scalar active matter' 
