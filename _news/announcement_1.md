@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-06-17 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+This week I will present my poster at the AMSCE conference in Dresden! 
