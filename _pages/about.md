@@ -6,7 +6,7 @@ subtitle: <a href='https://u-paris.fr/'>Universite Paris Cite</a>. Laboratoire M
 
 profile:
   align: left #right
-  image: prof_pic.jpg
+  image: foto_alberto.jpg
   image_circular: false # crops the image to make it circular
   address: >
 news: true  # includes a list of news items
