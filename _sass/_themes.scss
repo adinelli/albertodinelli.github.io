@@ -1,7 +1,16 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
- 
+
+
+/* Define common icon styles */
+.icon {
+  /* Your common icon styles here */
+  width: 35px;
+  height: 25px;
+  opacity: 0.8;
+}
+
 :root {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
@@ -62,4 +71,10 @@ html[data-theme='dark'] {
   .repo-img-dark {
     display: block;
   }
+
+  .icon {
+  /* Your dark theme icon styles here */
+  /* For example, you can adjust the icon color */
+  fill: var(--global-theme-color); /* Use the theme color for the icon fill */
+}
 }

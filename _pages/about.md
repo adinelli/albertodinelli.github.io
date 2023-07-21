@@ -24,16 +24,28 @@ Tailleur</a>.
 My main research interest is theoretical statistical physics, in
 particular with applications to biology. For my PhD work, I am
 studying the self-organization of heterogeneous living systems, such
-as bacterial ecosystems. To do so, I am using the tools of active
-matter, which describes out-of-equilibrium systems of self-propelling
-units. On the one hand, I try to derive analytical descriptions of
-these systems by coarse-graining their microscopic dynamics into
-corresponding large-scale field theories. On the other hand, I perform
-particle-based simulations of these models to test the validity of the
-analytical predictions.
-<br>
-<br>
-<h5><FONT COLOR=blue>Contact</FONT>: alberto.dinelli-at-u-paris.fr</h5>
+as bacterial ecosystems. From a physical point of view, motile
+bacteria can be described as <span style="color:
+var(--global-theme-color)"> active particles</span>, i.e. microscopic
+units that can exert self-propulsion forces on the environment.
+
+On the one hand, I try to derive analytical descriptions of these
+systems by <span style="color:
+var(--global-theme-color)">coarse-graining</span> their microscopic
+dynamics into corresponding large-scale field theories. On the other
+hand, I perform <span style="color:
+var(--global-theme-color)">particle-based simulations</span> of these
+models to test the validity of the analytical predictions.
+
+<br> <br>
+
+<p>
+<h5>
+ <img src="assets/img/mail-icon.jpg" class="icon">
+ <span style="color: var(--global-theme-color)"> &nbsp; Contact</span>:
+ &nbsp; alberto.dinelli-at-u-paris.fr
+</h5>
+</p>
 
 <br>
 <br>
