@@ -11,9 +11,14 @@
 - title: Education
   type: time_table
   contents:
+    - title: Post-doc
+      institution: University of Geneva, Biochemistry Department
+      year: 2024-Present
+      description: 
+        - '<b>Advisor</b>:   Prof. <a href="https://www.unige.ch/sciences/biochimie/labs/karsten-kruse/">Karsten Kruse</a>'
     - title: PhD in Physics
       institution: Université Paris Cité
-      year: 2021-Present
+      year: 2021-2024
       description: 
         - '<b>Thesis title</b>: <i>Scalar Active Matter across scales.</i>'
         - '<b>Supervisor</b>:   Prof. <a href="https://physics.mit.edu/faculty/julien-tailleur/">Julien Tailleur</a>'
@@ -79,7 +84,7 @@
   contents:
     - title: Teaching assistant in "Photonics" (Bachelor, 2nd year) 
       institution: Universite Paris Cite, IUT Pajol
-      year: 2021-Present
+      year: 2021-2024
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -89,7 +94,7 @@
       #       - Sub-description 2.
     - title: Teaching assistant in "Properties of materials" (Bachelor, 1st year) 
       institution: Universite Paris Cite, IUT Pajol
-      year: 2021-Present
+      year: 2021-2024
 
 - title: Academic Interests
   type: nested_list
