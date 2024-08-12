@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.5.22)  1 MAY 2024 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.5.26)  12 AUG 2024 15:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -884,7 +884,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 Overfull \hbox (422.33858pt too wide) in paragraph at lines 136--139
-[][]|| 
+[][]| 
  []
 
 Package microtype Info: Loading generic protrusion settings for font family
@@ -892,8 +892,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (422.33858pt too wide) in paragraph at lines 157--162
-[][]| 
+Overfull \hbox (422.33858pt too wide) in paragraph at lines 147--150
+[][]|| 
  []
 
 
@@ -902,7 +902,12 @@ Overfull \hbox (422.33858pt too wide) in paragraph at lines 168--173
  []
 
 
-Overfull \hbox (46.33107pt too wide) in paragraph at lines 128--187
+Overfull \hbox (422.33858pt too wide) in paragraph at lines 179--184
+[][]| 
+ []
+
+
+Overfull \hbox (46.33107pt too wide) in paragraph at lines 128--198
 [][]
  []
 
@@ -913,18 +918,18 @@ Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--413
+Underfull \hbox (badness 10000) in paragraph at lines 421--424
 
  []
 
 [3]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     417.
+(LaTeX3)     428.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     417.
+(LaTeX3)     428.
 
  (./CV_Alberto_Dinelli.aux)
 
@@ -934,12 +939,12 @@ Package rerunfilecheck Info: File `CV_Alberto_Dinelli.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15240 strings out of 479304
- 293474 string characters out of 5869779
- 822706 words of memory out of 5000000
- 31910 multiletter control sequences out of 15000+600000
+ 15241 strings out of 481134
+ 293487 string characters out of 5913146
+ 818108 words of memory out of 5000000
+ 31675 multiletter control sequences out of 15000+600000
  463258 words of font info for 269 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
+ 81 hyphenation exceptions out of 8191
  111i,22n,116p,10613b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
@@ -949,7 +954,7 @@ ublic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fpl
 rij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Alberto_Dinelli.pdf (3 pages, 133193 bytes).
+Output written on CV_Alberto_Dinelli.pdf (3 pages, 134683 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
