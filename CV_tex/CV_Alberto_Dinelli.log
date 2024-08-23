@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.5.26)  12 AUG 2024 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2023.5.22)  23 AUG 2024 18:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -672,8 +672,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count275
 \enitdp@description=\count276
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 29.
-Package hyperref Info: Option `breaklinks' set `true' on input line 29.
+Package hyperref Info: Option `colorlinks' set `true' on input line 30.
+Package hyperref Info: Option `breaklinks' set `true' on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrextend.sty
 
@@ -686,7 +686,7 @@ Package scrextend Warning: This package was made to extend other classes but
 )
 \datebox=\skip107
 LaTeX Font Info:    Trying to load font information for OT1+pplj on input line 
-79.
+80.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplj.fd
 File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
 )
@@ -698,25 +698,25 @@ File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
 (./CV_Alberto_Dinelli.aux)
 \openout1 = `CV_Alberto_Dinelli.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-Package scrbase Info: activating english \contentsname on input line 79.
-Package scrbase Info: activating english \listfigurename on input line 79.
-Package scrbase Info: activating english \listtablename on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+Package scrbase Info: activating english \contentsname on input line 80.
+Package scrbase Info: activating english \listfigurename on input line 80.
+Package scrbase Info: activating english \listtablename on input line 80.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -741,14 +741,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \big@size=\dimen184
-LaTeX Info: Redefining \microtypecontext on input line 79.
+LaTeX Info: Redefining \microtypecontext on input line 80.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 79.
+LaTeX Info: Redefining \showhyphens on input line 80.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -760,7 +760,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 79.
+Package hyperref Info: Link coloring ON on input line 80.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -773,9 +773,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count284
 )
-LaTeX Info: Redefining \ref on input line 79.
-LaTeX Info: Redefining \pageref on input line 79.
-LaTeX Info: Redefining \nameref on input line 79.
+LaTeX Info: Redefining \ref on input line 80.
+LaTeX Info: Redefining \pageref on input line 80.
+LaTeX Info: Redefining \nameref on input line 80.
 
 (./CV_Alberto_Dinelli.out) (./CV_Alberto_Dinelli.out)
 \@outlinefile=\write3
@@ -788,7 +788,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 79.
+(scrartcl)           before \begin{document} on input line 80.
 
 (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
@@ -835,30 +835,30 @@ Package microtype Info: Character `013' is missing
 (microtype)             in font `OT1/pplj/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-83.
+84.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-83.
+84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-83.
+84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-83.
+84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-83.
+84.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -870,20 +870,20 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `OT1/pplj/b/sc' undefined
-(Font)              using `OT1/pplj/b/n' instead on input line 125.
+(Font)              using `OT1/pplj/b/n' instead on input line 126.
 
 LaTeX Font Info:    Trying to load font information for OT1+fvm on input line 1
-34.
-LaTeX Font Info:    No file OT1fvm.fd. on input line 134.
+35.
+LaTeX Font Info:    No file OT1fvm.fd. on input line 135.
 
 LaTeX Font Warning: Font shape `OT1/fvm/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 134.
+(Font)              using `OT1/cmr/m/n' instead on input line 135.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Overfull \hbox (422.33858pt too wide) in paragraph at lines 136--139
+Overfull \hbox (422.33858pt too wide) in paragraph at lines 137--140
 [][]| 
  []
 
@@ -892,37 +892,28 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Overfull \hbox (422.33858pt too wide) in paragraph at lines 147--150
+Overfull \hbox (422.33858pt too wide) in paragraph at lines 148--150
 [][]|| 
  []
 
 
-Overfull \hbox (422.33858pt too wide) in paragraph at lines 168--173
+Overfull \hbox (422.33858pt too wide) in paragraph at lines 169--174
 [][]| 
  []
 
 
-Overfull \hbox (422.33858pt too wide) in paragraph at lines 179--184
+Overfull \hbox (422.33858pt too wide) in paragraph at lines 180--185
 [][]| 
  []
 
 
-Overfull \hbox (46.33107pt too wide) in paragraph at lines 128--198
+Overfull \hbox (46.33107pt too wide) in paragraph at lines 129--199
 [][]
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2]
-Package microtype Info: Character `013' is missing
-(microtype)             in font `OT1/pplj/m/sc/10'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Underfull \hbox (badness 10000) in paragraph at lines 421--424
-
- []
-
-[3]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
 (LaTeX3)     428.
@@ -931,7 +922,8 @@ LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
 (LaTeX3)     428.
 
- (./CV_Alberto_Dinelli.aux)
+
+(./CV_Alberto_Dinelli.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -939,13 +931,13 @@ Package rerunfilecheck Info: File `CV_Alberto_Dinelli.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15241 strings out of 481134
- 293487 string characters out of 5913146
- 818108 words of memory out of 5000000
- 31675 multiletter control sequences out of 15000+600000
- 463258 words of font info for 269 fonts, out of 8000000 for 9000
- 81 hyphenation exceptions out of 8191
- 111i,22n,116p,10613b,567s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 15189 strings out of 479304
+ 292945 string characters out of 5869779
+ 825713 words of memory out of 5000000
+ 31902 multiletter control sequences out of 15000+600000
+ 457975 words of font info for 242 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 111i,22n,116p,10613b,559s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
@@ -954,10 +946,10 @@ ublic/fpl/fplrc8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fpl/fpl
 rij8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Alberto_Dinelli.pdf (3 pages, 134683 bytes).
+Output written on CV_Alberto_Dinelli.pdf (2 pages, 129923 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 123905 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
+ 104961 words of extra memory for PDF output out of 106986 (max. 10000000)
 

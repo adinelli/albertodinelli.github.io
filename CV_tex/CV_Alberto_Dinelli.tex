@@ -9,6 +9,7 @@
 \usepackage[dvipsnames]{xcolor}
 \definecolor{carmine}{rgb}{0.59, 0.0, 0.09}
 \definecolor{deepchestnut}{rgb}{0.73, 0.31, 0.28}
+\newcommand\deepchestnut[1]{\textcolor{deepchestnut}{#1}}
 
 \newcommand{\MarginText}[1]{\marginpar{\raggedleft\itshape\small#1}} % New command defining the margin text style
 
@@ -26,7 +27,7 @@
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{hyperref} % Required for adding links and customizing them
-\hypersetup{colorlinks, breaklinks, urlcolor=deepchestnut, linkcolor=blue} % Set link colors
+\hypersetup{colorlinks, breaklinks, urlcolor=black, linkcolor=blue} % Set link colors
 
 \usepackage{scrextend}
 
@@ -94,13 +95,13 @@
 
 \NewEntry{Born in}{Lucca (Italia),}{07/10/1997} % Birthplace and date
 
-\NewEntry{email}{\href{mailto:alberto.dinelli@u-paris.fr}{alberto.dinelli@u-paris.fr}} % Email address
+\NewEntry{email}{\href{mailto:alberto.dinelli@u-paris.fr}{\deepchestnut{alberto.dinelli@u-paris.fr}}} % Email address
 
 \NewEntry{address}{Laboratoire Matière et Systèmes Complexes \\\-\hspace{4.0cm}UMR 7057 $\cdotp$ Université de Paris\\
   \-\hspace{4.0cm}10 rue Alice Domon et Léonie Duquet\\
   \-\hspace{4.0cm}75205 Paris CEDEX 13 (\textit{France})}
 
-\NewEntry{website}{\href{https://adinelli.github.io/}{adinelli.github.io}}
+\NewEntry{website}{\href{https://adinelli.github.io/}{\deepchestnut{adinelli.github.io}}}
 
 \vspace{1em}
 
@@ -127,9 +128,9 @@
 
 \begin{tabular}{p{4cm}|p{14cm}} % <=============================
   
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{Sept 2024 - Present}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{2024-09 -- Present}
   \end{tabular}
-  & \large{\textcolor{carmine}{\textbf{Postdoc}}}
+  & \large{\textcolor{carmine}{{Postdoc}}}
   \newline
   \normalsize\texttt{Biochemistry department}  $\cdotp$ \textit{University of Geneva}\\[0.2cm]
         %\\ & in collaboration with \texttt{Massachussets Institute of Technology} $\cdotp$ \textit{Boston}\\[0.2cm]%
@@ -138,43 +139,43 @@
 	\end{tabular}\\
   \multicolumn{2}{c}{}\\[0.5cm]
   
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{Oct 2021 - Aug 2024}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{2021-10 -- 2024-08}
   \end{tabular}
-  & \large{\textcolor{carmine}{\textbf{Ph.D. - Physique en Île de France}}}
+  & \large{\textcolor{carmine}{{Ph.D. - Physique en Île de France}}}
   \newline
   \normalsize\texttt{Laboratoire Matière et Systèmes Complexes, Université Paris Cité}  $\cdotp$ \textit{Paris}\\[0.2cm]
         %\\ & in collaboration with \texttt{Massachussets Institute of Technology} $\cdotp$ \textit{Boston}\\[0.2cm]%
 	\begin{tabular}{p{4.5cm} p{13.5cm}}
-	& \footnotesize\textbf{Subject:} Scalar Active Matter across scales.\\
-	& \footnotesize\textbf{Supervisor:} Julien Tailleur.
+	& \footnotesize\textbf{Thesis:} Scalar Active Matter across scales\ $\cdotp$ \footnotesize\textbf{Supervisor:} Julien Tailleur.
 	\end{tabular}\\[0.5cm]
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{\small Oct 2023 - Nov 2023}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{\small 2023-10 -- 2023-11}
   \end{tabular}
   & \small{$\>\>\cdotp\>\>$} \small{Visiting period at MIT, group of Prof. J. Tailleur $\cdotp$ \textit{Cambridge}, US}\\[0.1cm]
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{\small Jul 2023}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{\small 2023-07}
   \end{tabular}
   & \small{$\>\>\cdotp\>\>$} \small{Visiting period at YITP, group of Prof. H. Hayakawa $\cdotp$ \textit{Kyoto}, JP}\\[0.1cm]
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{\small Oct 2022}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{\small 2022-10}
   \end{tabular}
   & \small{$\>\>\cdotp\>\>$} \small{Visiting period at MIT, group of Prof. J. Tailleur $\cdotp$ \textit{Cambridge}, US}\\
   \multicolumn{2}{c}{}\\[0.5cm]
   
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{Sep 2019 - Jul 2021}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{2019-09 -- 2021-07}
   \end{tabular}
-  & \large{\textcolor{carmine}{\textbf{Master in Physics of Complex Systems (\href{http://www.pcs.polito.it/educational_tracks/international_track}{International Track})}}}\\
-  & \normalsize\texttt{Politecnico di Torino}  $\cdotp$ \textit{Torino}\\
-  & \texttt{Université Paris-Saclay}, \texttt{Sorbonne Université}, \texttt{Université de Paris} $\>\>\cdotp$ \textit{Paris}\\
-  & \texttt{SISSA}, \texttt{ICTP} $\cdotp$ \textit{Trieste}\\[0.2cm]
+  & \large{\textcolor{carmine}{{Master in Physics of Complex Systems - International track}}}
+  \newline
+  \normalsize\texttt{Politecnico di Torino}  $\cdotp$ \textit{Torino}\\[0.05cm]
+  & \normalsize\texttt{Université Paris-Saclay}  $\cdotp$ \textit{Paris}\\[0.05cm]
+  & \normalsize\texttt{SISSA}, \texttt{ICTP} $\cdotp$ \textit{Trieste}\\[0.2cm]
   \begin{tabular}{p{4.5cm} p{13.5cm}}
 	& \footnotesize\textbf{Italian degree mark:} 110/110 cum laude\\
 	& \footnotesize\textbf{French M2 mark:} 18/20\\
-	& \footnotesize\textbf{Thesis:} Self-organization of active mixtures.\ $\cdotp$ \textbf{Supervisor:} Julien Tailleur.
+	& \footnotesize\textbf{Thesis:} Self-organization of active mixtures\ $\cdotp$ \textbf{Supervisor:} Julien Tailleur.
 	\end{tabular}\\
   \multicolumn{2}{c}{} \\[0.5cm]
   
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{Sep 2016 - Jul 2019}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{2016-09 -- 2019-07}
   \end{tabular}
-  & \large{\textcolor{carmine}{\textbf{Bachelor degree in Physics}}}\\
+  & \large{\textcolor{carmine}{{Bachelor degree in Physics}}}\\
   & \normalsize\texttt{Università di Pisa}  $\cdotp$ \textit{Pisa}\\[0.2cm]
   \begin{tabular}{p{4.5cm} p{13.5cm}}
 	& \footnotesize\textbf{Degree mark:} 110/110 cum laude\\
@@ -184,7 +185,7 @@
   
   \if{
   \multicolumn{2}{c}{} \\[0.5cm]
-  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{2011 - 2016}
+  \begin{tabular}[t]{@{}l@{}}\parbox{\datebox}{2011 -- 2016}
   \end{tabular}
   & \large{\textcolor{carmine}{\textbf{Scientific high school diploma}}}\\
   & \normalsize\texttt{Liceo Scientifico A. Vallisneri}  $\cdotp$ \textit{Lucca}\\[0.2cm]
@@ -234,8 +235,8 @@
 \noindent\spacedallcaps{\textbf{Publications}}\vspace{1em}
 \small
 \begin{enumerate}
-\item \underline{A. Dinelli}, J. O’Byrne and J. Tailleur, ``Fluctuating hydrodynamics of active particles interacting via chemotaxis and quorum sensing: static and dynamics''. \href{https://arxiv.org/abs/2402.05072}{arXiv:2402.05072} (2024).
-\item \underline{A. Dinelli}, J. O’Byrne, A. Curatolo, Y. Zhao, P. Sollich, J. Tailleur, ``Non-reciprocity across scales in active mixtures''. \href{https://doi.org/10.1038/s41467-023-42713-5}{Nature Communications} 14, 7035 (2023). 
+\item \underline{A. Dinelli}, J. O’Byrne and J. Tailleur, \href{https://iopscience.iop.org/article/10.1088/1751-8121/ad72bc}{``Fluctuating hydrodynamics of active particles interacting via chemotaxis and quorum sensing: static and dynamics''. J. Phys. A} (2024).
+\item \underline{A. Dinelli}, J. O’Byrne, A. Curatolo, Y. Zhao, P. Sollich, J. Tailleur, \href{https://doi.org/10.1038/s41467-023-42713-5}{``Non-reciprocity across scales in active mixtures''. Nature Communications 14, 7035} (2023). 
 \end{enumerate}
   
 
@@ -307,19 +308,17 @@
 
 
 
-\newpage
-
 %--------------------------------
 %	COMPUTER SKILLS
 %--------------------------------
 
+\if{
 \noindent\spacedallcaps{\textbf{Computer Skills}}
 \vspace{1em}
 \small
 
 \NewItemEntry{Intermediate}{Julia, \textsc{Matlab}, \textsc{Mathematica}}\\[\v]
 \NewItemEntry{Advanced}{Python, C, awk, bash, \LaTeX}
-
 \vspace{1.0em} % Extra space between major sections
 
 \par\noindent\rule{\textwidth}{0.4pt}
@@ -343,6 +342,7 @@
 %----------------------------------------
 %	OTHER INFORMATION
 %----------------------------------------
+}\fi
 
 \noindent\spacedallcaps{\textbf{Other Information}}
 \vspace{1em}
@@ -353,9 +353,9 @@
 
 \small
 
-\NewItemEntry{2023}{International Mobility Fellowship \href{https://www.edite-de-paris.fr/universite-paris-cite-bdmi/}{BDMI}}\\[\v]
-\NewItemEntry{2021 - 2024}{IdEX International PhD Fellowship (\href{https://www.mastere.tn/en/university-of-paris-doctoral-fellowship-program-2021/}{Link})}\\[\v]
-\NewItemEntry{2020 - 2021}{Paris-Saclay International Master's Scolarship (\href{https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program}{Link})}
+\NewItemEntry{2023}{\href{https://www.edite-de-paris.fr/universite-paris-cite-bdmi/}{International Mobility Fellowship}}\\[\v]
+\NewItemEntry{2021 - 2024}{\href{https://www.mastere.tn/en/university-of-paris-doctoral-fellowship-program-2021/}{IdEX International PhD Fellowship }}\\[\v]
+\NewItemEntry{2020 - 2021}{\href{https://www.universite-paris-saclay.fr/en/admission/bourses-et-aides-financieres/international-masters-scholarships-program}{Paris-Saclay International Master's Scolarship}}
 
 
 %------------------------------------------------
@@ -408,7 +408,6 @@
 \NewItemEntry{Sep 2015}{University orientation course held by Scuola Normale Superiore di Pisa (\href{https://www.sns.it/it/orientamento}{Link}) (\textit{San Miniato})}
 
 \vspace{1em}
-}\fi
 
 %------------------------------------------------
 
@@ -422,6 +421,7 @@
 \NewItemEntry{English}{Advanced C2 (Cambridge Proficiency Certificate in 2015)}\\[\v]
 \NewItemEntry{French}{Advanced}\\[\v]
 
+}\fi
 \date{}
 \end{cv}
 
