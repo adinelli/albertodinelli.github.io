@@ -15,27 +15,24 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <br>
-PhD student in the <a
+Post-doctoral fellow at the Biochemistry Department of the
+University of Geneva, in the group of <a
+href='https://www.unige.ch/sciences/biochimie/labs/karsten-kruse/'>Karsten
+Kruse</a>.
+
+Previously: PhD in the <a
 href='https://sites.google.com/view/theory-of-complex-systems/welcome?authuser=0'>theory
-group</a> of the MSC lab, working under the supervision of Professor <a
+group</a> of the MSC lab, working under the supervision of <a
 href='https://physics.mit.edu/faculty/julien-tailleur/'>Julien
 Tailleur</a>.
 
-My main research interest is theoretical statistical physics, in
-particular with applications to biology. For my PhD work, I am
-studying the self-organization of heterogeneous living systems, such
-as bacterial ecosystems. From a physical point of view, motile
-bacteria can be described as <span style="color:
-var(--global-theme-color)"> active particles</span>, i.e. microscopic
-units that can exert self-propulsion forces on the environment.
-
-On the one hand, I try to derive analytical descriptions of these
-systems by <span style="color:
-var(--global-theme-color)">coarse-graining</span> their microscopic
-dynamics into corresponding large-scale field theories. On the other
-hand, I perform <span style="color:
-var(--global-theme-color)">particle-based simulations</span> of these
-models to test the validity of the analytical predictions.
+My research focus is theoretical statistical physics, in particular
+with applications to the self-organization of biological and synthetic
+active systems. More specifically, I am interested in relating the
+microscopic dynamics of active systems to their large-scale emergent
+behavior. Bridging this gap can provide a deeper understanding of
+biological processes and, possibly, inspire the design of controllable
+active materials.
 
 <br> <br>
 
