@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <h5><i><a href='https://u-paris.fr/'>Université Paris Cité</a>, Laboratoire Matière et Systèmes Complexes (<a href='http://www.msc.univ-paris-diderot.fr/'>MSC</a>).</i></h5>
+subtitle: <h5><i>Université de Géneve, Biochemistry Department.</i></h5>
 
 profile:
   align: right
@@ -20,19 +20,19 @@ University of Geneva, in the group of <a
 href='https://www.unige.ch/sciences/biochimie/labs/karsten-kruse/'>Karsten
 Kruse</a>.
 
-Previously: PhD in the <a
+Previously PhD in the <a
 href='https://sites.google.com/view/theory-of-complex-systems/welcome?authuser=0'>theory
 group</a> of the MSC lab, working under the supervision of <a
 href='https://physics.mit.edu/faculty/julien-tailleur/'>Julien
 Tailleur</a>.
 
 My research focus is theoretical statistical physics, in particular
-with applications to the self-organization of biological and synthetic
-active systems. More specifically, I am interested in relating the
-microscopic dynamics of active systems to their large-scale emergent
-behavior. Bridging this gap can provide a deeper understanding of
-biological processes and, possibly, inspire the design of controllable
-active materials.
+with applications to biological and synthetic active systems. More
+specifically, I am interested in relating the microscopic dynamics of
+active systems to their large-scale emergent behaviors. Bridging this
+gap can provide a deeper understanding on the self-organization of
+living matter and, possibly, inspire the design of controllable active
+materials.
 
 <br> <br>
 
@@ -40,7 +40,7 @@ active materials.
 <h5>
  <img src="assets/img/mail-icon.jpg" class="icon">
  <span style="color: var(--global-theme-color)"> &nbsp; Contact</span>:
- &nbsp; alberto.dinelli-at-u-paris.fr
+ &nbsp; alberto.dinelli-at-unige.ch
 </h5>
 </p>
 
